@@ -1,0 +1,42 @@
+body {
+  background-color:#bfe3fc;
+}
+
+.logo {
+  margin: 0;
+  font-size: 5em;
+  font-weight: 200;
+  font-family: 'Pirata One', cursive;
+  text-align: center;
+  text-shadow: 4px 5px 0 #ff0043;
+  line-height: 70px;
+  margin-top: -65px;
+}
+
+.logo a {
+  color: #000000;
+}
+
+.logo a:hover, .logo a:focus {
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.signup {
+  background-color: #f6f6f6;
+  width: 70%;
+  border-radius: 50px;
+  margin: 10px auto 0;
+}
+
+.signup {
+  padding: 30px 20px;
+}
+
+.signup form {
+  margin-top: 20px;
+}
+
+.signup h2 {
+  margin: 0;
+}
